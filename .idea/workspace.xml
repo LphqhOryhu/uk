@@ -5,11 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12b79a6c-3d78-4b0f-bccb-21497a360fec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/UK_pdf_conversion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/UK_pdf_conversion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UK_pdf_conversion.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tableau.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/tableau.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00846893.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00846893.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00846934.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00846934.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00846963.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00846963.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00846984.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00846984.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00846992.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00846992.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847034.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847034.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847085.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847085.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847102.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847102.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847123.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847123.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847147.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847147.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847210.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847210.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847219.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847219.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847233.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847233.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847254.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847254.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847295.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847295.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847357.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847357.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847369.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847369.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847370.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847370.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847461.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/SPLINTMAIL00847461.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_coord_bg/nan.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output_coord_bg/nan.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.py" beforeDir="false" afterPath="$PROJECT_DIR$/script.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +47,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LphqhOryhu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LphqhOryhu/uk.git&quot;,
+    &quot;accountId&quot;: &quot;0a9d990d-9164-406d-b518-9a489e23ad1b&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -34,21 +67,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.script.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python._optional.executor&quot;: &quot;Run&quot;,
+    &quot;Python.script.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -57,11 +92,12 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
-        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
       </set>
     </attachedChunks>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="12b79a6c-3d78-4b0f-bccb-21497a360fec" name="Changes" comment="" />
@@ -71,6 +107,10 @@
       <updated>1748432365523</updated>
       <workItem from="1748432366577" duration="673000" />
       <workItem from="1748433048071" duration="4486000" />
+      <workItem from="1749623482455" duration="1508000" />
+      <workItem from="1749630237349" duration="1963000" />
+      <workItem from="1749807124262" duration="5743000" />
+      <workItem from="1749814463043" duration="1087000" />
     </task>
     <servers />
   </component>
@@ -78,6 +118,8 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/uk$script.coverage" NAME="script Coverage Results" MODIFIED="1749813290344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/uk$_optional.coverage" NAME="_optional Coverage Results" MODIFIED="1749623940097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/miniconda3/Lib/site-packages/pandas/compat" />
     <SUITE FILE_PATH="coverage/UK_pdf_conversion$script.coverage" NAME="script Coverage Results" MODIFIED="1748436940557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
